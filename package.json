@@ -28,10 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdarling/nasty-json.git"
+    "url": "git+https://github.com/anarchistengineering/nasty-json.git"
   },
   "bugs": {
-    "url": "https://github.com/jdarling/nasty-json/issues"
+    "url": "https://github.com/anarchistengineering/nasty-json/issues"
   },
-  "homepage": "https://github.com/jdarling/nasty-json#readme"
+  "homepage": "https://github.com/anarchistengineering/nasty-json#readme",
+  "directories": {
+    "test": "test"
+  }
 }
