@@ -1,0 +1,37 @@
+{
+  "name": "nasty-json",
+  "version": "0.0.1",
+  "description": "Allow the nastiest thing resembling JSON to be convereted to JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "keywords": [
+    "JSON",
+    "Parser",
+    "Ohm",
+    "Nasty"
+  ],
+  "author": "Jeremy Darling <jeremy.darling@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^11.1.0"
+  },
+  "dependencies": {
+    "code": "^4.0.0",
+    "lab": "^11.1.0",
+    "ohm-js": "^0.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdarling/nasty-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdarling/nasty-json/issues"
+  },
+  "homepage": "https://github.com/jdarling/nasty-json#readme"
+}
