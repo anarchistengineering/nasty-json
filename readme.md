@@ -54,6 +54,13 @@ Install
 npm install --save nasty-json
 ```
 
+Test
+---
+
+```
+npm test
+```
+
 Usage
 ---
 
